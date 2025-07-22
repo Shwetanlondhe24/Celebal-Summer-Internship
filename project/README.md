@@ -66,8 +66,8 @@ The system serves **3 types of users**, each with specific goals and responsibil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/shiptracker.git
-   cd shiptracker
+   git clone https://github.com/Shwetanlondhe24/Celebal-Summer-Internship
+   cd project
    ```
 
 2. **Install dependencies:**
@@ -123,6 +123,12 @@ src/
 │   └── paymentService.js  # Payment abstraction
 └── App.jsx           # Main application component
 ```
+---
+
+## 🔗 Links
+
+**Project link:** [https://celebal-summer-internship-shipment.vercel.app/](https://celebal-summer-internship-shipment.vercel.app/)
+
 ---
 
 ## 🏢 Internship Experience
